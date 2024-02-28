@@ -4,3 +4,5 @@ wait
 sudo apt update
 wait
 sudo apt upgrade -y
+wait
+sudo apt autoremove -y
